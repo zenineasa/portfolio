@@ -92,7 +92,8 @@
 		"timestamp": 1525262400000,
 		"title": "Defended Bachelor Thesis",
 		"subtitle": "Tool-Workpiece Contact Switch for Micromilling Machine",
-		"content": "Finding the contact point between the tool and the workpiece for a non-conductive tool-workpiece combination and setting it as the vertical axis reference point. The micromilling machine that existed in our lab has a contact probe that works for conductive materials; the principle being that the tool is connected to one terminal and workpiece to the other, and when they touch, the circuit gets completed. To make this work for a non-conductive tool or workpiece, I hacked the machine using a secondary circuit that utilizes a few piezoelectric sensors that trigger the aforementioned circuit completion based on incoming pressure variation. This helped our institute cut costs by avoiding the purchase of new equipment."
+		"content": "Finding the contact point between the tool and the workpiece for a non-conductive tool-workpiece combination and setting it as the vertical axis reference point. The micromilling machine that existed in our lab has a contact probe that works for conductive materials; the principle being that the tool is connected to one terminal and workpiece to the other, and when they touch, the circuit gets completed. To make this work for a non-conductive tool or workpiece, I hacked the machine using a secondary circuit that utilizes a few piezoelectric sensors that trigger the aforementioned circuit completion based on incoming pressure variation. This helped our institute cut costs by avoiding the purchase of new equipment.",
+		"images": ["btp4.jpeg", "btp3.png", "btp1.jpeg", "btp2.jpeg"]
 	}, {
 		"timestamp": 1512216000000,
 		"title": "Submitted a patent application",

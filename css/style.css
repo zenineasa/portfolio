@@ -524,7 +524,9 @@ h1 {
     float: left;
     font-weight: bold;
     font-size: 3em;
-    padding: 1em;
+    padding: 0.5em;
     z-index: 999;
     color: #ffffff;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
 }
