@@ -1,0 +1,196 @@
+{
+	"data": [
+	{
+		"timestamp": 1688515200000,
+		"title": "Graduated",
+		"subtitle": "MS in Computational Science | Università della Svizzera italiana",
+		"content": ""
+	}, {
+		"timestamp":1687773600000,
+		"title": "Student Volunteer",
+		"subtitle": "PASC23",
+		"content": "Helped organize The Platform for Advanced Scientific Computing (PASC) conference, an international and interdisciplinary platform for the exchange of knowledge in scientific computing and computational science. I also presented my master thesis project as a poster presentation in this event.<br><br><iframe width='560' height='315' src='https://www.youtube.com/embed/mSxZRTWjjqk?start=524&end=580' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+		"images": ["pasc1.webp", "pasc2.webp", "pasc3.webp", "pasc4.jpeg"]
+	}, {
+		"timestamp":1686916800000,
+		"title": "Defended master thesis",
+		"subtitle": "Application of Deep and Reinforcement Learning to Boundary Control Problems",
+		"content": "The project approaches a control and optimization problem using deep learning and reinforcement learning. The resulting method is against IPOPT, which is state-of-the-art in non-linear optimization. <br><br>The files code and results related to the project is made available on our GitHub Repository:<br><a href='https://github.com/zenineasa/MasterThesis'>https://github.com/zenineasa/MasterThesis</a>.",
+		"images": ["thesis1.jpeg", "thesis2.jpeg", "thesis3.jpeg", "thesis4.jpeg", "thesis5.jpeg", "thesis6.jpeg"]
+	}, {
+		"timestamp": 1654041600000,
+		"title": "Ended working as a teaching assistant",
+		"subtitle": "High-Performance Computing | Università della Svizzera italiana",
+		"content": ""
+	}, {
+		"timestamp": 1645315200000,
+		"title": "Started working as a teaching assistant",
+		"subtitle": "High-Performance Computing | Università della Svizzera italiana",
+		"content": ""
+	}, {
+		"timestamp": 1659312000000,
+		"title": "Started HexHoot",
+		"subtitle": "Opensource P2P communication platform with ZKP authentication",
+		"content": "This is an attempt to create an Opensource Peer-to-peer communication platform with Zero-Knowledge-Proof based authentication. The objective is to democratize communication by eliminating any form of central servers. <br><br> More information on <a href='https://hexhoot.com'>hexhoot.com</a>.<br><br><iframe width='560' height='315' src='https://www.youtube.com/embed/mUrsJ9dGwNY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>"
+	}, {
+		"timestamp": 1654041600000,
+		"title": "Ended working as a teaching assistant / Slack support",
+		"subtitle": "High-Performance Computing for CSE | ETH Zürich",
+		"content": ""
+	}, {
+		"timestamp": 1645315200000,
+		"title": "Started working as a teaching assistant / Slack support",
+		"subtitle": "High-Performance Computing for CSE | ETH Zürich",
+		"content": ""
+	}, {
+		"timestamp": 1631664000000,
+		"title": "Commenced master's programme",
+		"subtitle": "MS in Computational Science | Università della Svizzera italiana",
+		"content": ""
+	}, {
+		"timestamp": 1631232000000,
+		"title": "Left MathWorks",
+		"subtitle": "",
+		"content": ""
+	}, {
+		"timestamp": 1607097600000,
+		"title": "Runner-up in MathWorks BGL Virtual Hackday",
+		"subtitle": "Team Loki",
+		"content": "We created a product named OCR assistant, a bot that can read the contents of different windows on the screen (or minimized) and rings an alarm you when certain text appears in the same. This helps in workflows involving waiting for long running processes or commands."
+	}, {
+		"timestamp": 1604448000000,
+		"title": "Submitted a research paper to Journal of Simulation",
+		"subtitle": "A Framework for COVID-19 Medicine and Vaccine Distribution Modeling, Analysis and Decision Making",
+		"content": "An Agent-Based Modeling framework for modeling disease spread with the capability to generate people as agents with various attributes such as mobility, infected, immune, etc. and an environment having boundaries that the agents may or may not cross according to probability specified during modeling. The conditions to implement a lockdown and mobility during a lockdown, as well as parameters related to when vaccine and medicine distribution begins, the quantity and frequency of replenishment, are editable. We modeled and simulated disease spread for a hexagonally divided hierarchical settlement inspired by Central Place Theory subjected various choices for the parameters mentioned in the previous sentence."
+	}, {
+		"timestamp": 1604448000000,
+		"title": "Submitted a patent application",
+		"subtitle": "Cryogenic Micromachining Apparatus and Method Thereof (IN202031020431)",
+		"content": "A closed machining chamber featuring the ability to control the temperature of the workpiece and the ability to set real-time initial tool-workpiece reference coordinates to maintain temperature uniformity below a glass transition temperature of the workpiece and dimensional accuracy. My contribution, described in my bachelor thesis, was to create a robust method that would allow setting up the reference coordinate by tool-workpiece contact detection for non-conductive workpieces."
+	}, {
+		"timestamp": 1561939200000,
+		"title": "Joined a new team at MathWorks",
+		"subtitle": "System Architecture Verticals | Control Design and Automation",
+		"content": "The team builds tools for Discrete Event Simulation and Agent-Based Modeling. My work includes both frontend and backend (engine) development in JavaScript and C++, and the usage of MATLAB/Simulink to demonstrate the different potential integrated workflows with existing products."
+	}, {
+		"timestamp": 1542992400000,
+		"title": "Runner-up in MathWorks BGL Hackday",
+		"subtitle": "Team MAT'CHA",
+		"content": "We created a product named MAT'CHA, a chatting platform in which the users can run MATLAB commands and display the output. It was intended to make collaboration easier.",
+		"images": ["HackdayTrophy.jpg"]
+	}, {
+		"timestamp": 1529913600000,
+		"title": "Joined MathWorks",
+		"subtitle": "Engineering Development Group",
+		"content": "This group facilitates novice recruits to learn about MathWorks products, help the customers with the products, and find a target team or product to work on. While in the group, I implemented the Deep Learning Toolbox Model for Xception Network support package before moving onto work with my current team."
+	}, {
+		"timestamp": 1525478400000,
+		"title": "Graduated",
+		"subtitle": "B.Tech in Mechanical Engineering | Indian Institute of Technology Patna",
+		"content": ""
+	}, {
+		"timestamp": 1525262400000,
+		"title": "Defended Bachelor Thesis",
+		"subtitle": "Tool-Workpiece Contact Switch for Micromilling Machine",
+		"content": "Finding the contact point between the tool and the workpiece for a non-conductive tool-workpiece combination and setting it as the vertical axis reference point. The micromilling machine that existed in our lab has a contact probe that works for conductive materials; the principle being that the tool is connected to one terminal and workpiece to the other, and when they touch, the circuit gets completed. To make this work for a non-conductive tool or workpiece, I hacked the machine using a secondary circuit that utilizes a few piezoelectric sensors that trigger the aforementioned circuit completion based on incoming pressure variation. This helped our institute cut costs by avoiding the purchase of new equipment."
+	}, {
+		"timestamp": 1512216000000,
+		"title": "Submitted a patent application",
+		"subtitle": "System and method for detecting the change in occupancy status of slots over a platform (IN201731036379)",
+		"content": "Assuming that there is a platform that is dividing into many slots, we can detect occupied slots and what the weight of the objects on these slots are using just three weight sensors placed at known non-collinear points.<br><br> <iframe width='560' height='315' src='https://www.youtube.com/embed/g5njrmDuBlo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+		"images": ["workingOnSmartContainers.jpg", "SmartContainersPoster.jpg", "SmartContainersSetup1.jpg", "SmartContainersSetup2.jpg"]
+	}, {
+		"timestamp": 1500570000000,
+		"title": "Ended Internship at Vuelogix",
+		"subtitle": "",
+		"content": "Learned about deep neural networks just enough to implement a system that detects if people are wearing helmets inside ATMs using security footage using transfer learning on YOLO V2. I also worked on a React Native App that assists field agents set up security devices in ATMs and management to monitor the work."
+	}, {
+		"timestamp": 1493640000000,
+		"title": "Started Internship at Vuelogix",
+		"subtitle": "",
+		"content": ""
+	}, {
+		"timestamp": 1467133200000,
+		"title": "Ended Internship at Forthcode",
+		"subtitle": "",
+		"content": "Implemented an adaptive search program that is capable of retrieving the best results based on phonetic similarity and user choice history for the query."
+	}, {
+		"timestamp": 1462294800000,
+		"title": "Started Internship at Forthcode",
+		"subtitle": "",
+		"content": ""
+	}, {
+		"timestamp": 1491134400000,
+		"title": "Finalist in Amazon Code Wizard Challenge",
+		"subtitle": "Team CrazyDot",
+		"content": "The competition was aimed at providing an opportunity for students to experience first-hand, the complexity of problems that Amazon deals in its day-to-day operations. Ten teams from different IITs were shortlisted for the finals.",
+		"images": ["codewizard.jpg"]
+	}, {
+		"timestamp": 1485777600000,
+		"title": "Concluded role as Coordinator, Web and App Development",
+		"subtitle": "Anwesha'17",
+		"content": "",
+		"images": ["anwesha_coordinators_walk.jpg"]
+	}, {
+		"timestamp": 1485518400000,
+		"title": "First in Capture The Flag, Anwesha'17",
+		"subtitle": "Online cyber security competition.",
+		"content": ""
+	}, {
+		"timestamp": 1483444800000,
+		"title": "Participated in Enduro Student India",
+		"subtitle": "Baja Vehicle Design, Manufacturing and Racing competition",
+		"content": "A team of 20 worked together in creating an All Terrain Vehicle. I worked on a system involving multiple sensors to make information regarding engine temperature, ground clearance, orientation and speed of the vehicle be available to the driver on a screen in front of him.",
+		"images": ["baja2.jpg", "baja.jpg", "baja3.jpg"]
+	}, {
+		"timestamp": 1459598400000,
+		"title": "Started role as Coordinator, Web and App Development",
+		"subtitle": "Anwesha'17",
+		"content": ""
+	}, {
+		"timestamp": 1459598400000,
+		"title": "Participated in Human Powered Vehicle Challenge 2016",
+		"subtitle": "ASME",
+		"content": "My role was to design and manufacture an aerodynamic fairing for the semi-recumbent bicycle. We participated in HPVC 2016 conducted by ASME and secured 4th in the Innovation Challenge and 5th in the Design Presentation.",
+		"images": ["hpvc1.jpg", "hpvc2.jpg"]
+	}, {
+		"timestamp": 1454155200000,
+		"title": "Concluded role as Sub-coordinator, Creatives and Design",
+		"subtitle": "Anwesha'16",
+		"content": "",
+		"images": ["CreativesAndDesign.jpg", "CreativesAndDesign2.jpg"]
+	}, {
+		"timestamp": 1453291200000,
+		"title": "First in Capture The Flag, Anwesha'16",
+		"subtitle": "Online cyber security competition.",
+		"content": ""
+	}, {
+		"timestamp": 1429531200000,
+		"title": "Started role as Sub-coordinator, Creatives and Design",
+		"subtitle": "Anwesha'16",
+		"content": ""
+	}, {
+		"timestamp": 1418558400000,
+		"title": "Participated in the 50th Inter IIT at IIT Bombay",
+		"subtitle": "Football",
+		"content": "",
+		"images": ["Football2.jpg", "football4.jpg"]
+	}, {
+		"timestamp": 1481716800000,
+		"title": "Participated in the 51st Inter IIT at IIT Kanpur",
+		"subtitle": "Football",
+		"content": "",
+		"images": ["football.jpg"]
+	}, {
+		"timestamp": 1513252800000,
+		"title": "Participated in the 52nd Inter IIT at IIT Madras",
+		"subtitle": "Football",
+		"content": "",
+		"images": ["football3.jpg"]
+	}, {
+		"timestamp": 1406073600000,
+		"title": "Commenced bachelor's programme",
+		"subtitle": "B.Tech in Mechanical Engineering | Indian Institute of Technology Patna",
+		"content": ""
+	}]
+}
