@@ -16,14 +16,14 @@
 		"title": "Defended master thesis",
 		"subtitle": "Application of Deep and Reinforcement Learning to Boundary Control Problems",
 		"content": "The project approaches a control and optimization problem using deep learning and reinforcement learning. The resulting method is against IPOPT, which is state-of-the-art in non-linear optimization. <br><br>The files code and results related to the project is made available on our GitHub Repository:<br><a href='https://github.com/zenineasa/MasterThesis'>https://github.com/zenineasa/MasterThesis</a>.",
-		"images": ["thesis1.jpeg", "thesis2.jpeg", "thesis3.jpeg", "thesis4.jpeg", "thesis5.jpeg", "thesis6.jpeg"]
+		"images": ["thesis1.jpeg", "thesis2.jpeg", "thesis3.jpeg", "thesis4.jpeg"]
 	}, {
-		"timestamp": 1654041600000,
+		"timestamp": 1673784000000,
 		"title": "Ended working as a teaching assistant",
 		"subtitle": "High-Performance Computing | Università della Svizzera italiana",
 		"content": ""
 	}, {
-		"timestamp": 1645315200000,
+		"timestamp": 1663675200000,
 		"title": "Started working as a teaching assistant",
 		"subtitle": "High-Performance Computing | Università della Svizzera italiana",
 		"content": ""
@@ -56,7 +56,7 @@
 		"timestamp": 1607097600000,
 		"title": "Runner-up in MathWorks BGL Virtual Hackday",
 		"subtitle": "Team Loki",
-		"content": "We created a product named OCR assistant, a bot that can read the contents of different windows on the screen (or minimized) and rings an alarm you when certain text appears in the same. This helps in workflows involving waiting for long running processes or commands."
+		"content": "We created a product named OCR assistant, a bot that can read the contents of different windows on your monitor (or minimized) and rings an alarm when a certain text appears in the same. This helps in workflows involving waiting for long running processes or commands."
 	}, {
 		"timestamp": 1604448000000,
 		"title": "Submitted a research paper to Journal of Simulation",
