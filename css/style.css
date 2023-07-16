@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Darker+Grotesque&display=swap');
 
-/* CSS Reset - start */
+/* CSS Reset */
 
 html,
 body,
@@ -146,7 +146,24 @@ a {
 	color: inherit;
 }
 
-/* CSS Reset - end */
+/* For scrollbar */
+
+::-webkit-scrollbar {
+    width: 0.5em;
+    height: 0.5em;
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 180, 255, 0.5);
+    border-radius: 0.5em;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 180, 255, 0.8);
+}
+
+/** Rest of the styles **/
 
 body {
     background: url(../images/cover_blackfilm.jpg) no-repeat center center fixed;
@@ -155,6 +172,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
     background-color: #000000;
+    font-family: 'Darker Grotesque';
 }
 
 h1 {
@@ -196,7 +214,6 @@ h1 {
 
 #nav li {
     width: 100%;
-    font-family: 'Darker Grotesque';
     font-size: 1.5em;
     border: 0.0625em solid rgba(255, 255, 255, 0.1);
     line-height: 1.5em;
@@ -268,7 +285,6 @@ h1 {
 #logo span {
     color: rgba(0, 180, 255, 0.7);
     font-size: 0.4em;
-    font-family: 'Darker Grotesque';
     display: block;
 }
 
@@ -291,7 +307,6 @@ h1 {
     color: rgba(255, 255, 255, 0.8);
     padding: 0.4em 1em;
     margin: 0.5em;
-    font-family: 'Darker Grotesque';
     font-size: 1.3em;
 }
 
@@ -326,7 +341,6 @@ h1 {
     text-align: justify;
     padding: 1.5em;
     font-size: 1.5em;
-    font-family: 'Darker Grotesque';
 }
 
 #about .cont {
@@ -404,7 +418,6 @@ h1 {
 #timeline p {
     text-align: justify;
     font-size: 1.25em;
-    font-family: 'Darker Grotesque';
 }
 
 #timeline table {
@@ -481,7 +494,6 @@ h1 {
     padding: 0 1em;
     color: rgba(255, 255, 255, 0.5);
     font-size: 1em;
-    font-family: 'Darker Grotesque';
 }
 
 #footer .left a {
@@ -518,11 +530,12 @@ h1 {
 .close {
     position: fixed;
     float: left;
-    font-weight: bold;
-    font-size: 3em;
+    font-size: 2em;
     padding: 0.5em;
+    margin: 0.25em;
     z-index: 999;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.5);
     border-radius: 50%;
+    cursor: pointer;
 }

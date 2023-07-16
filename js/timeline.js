@@ -56,7 +56,7 @@ function viewImage(filename) {
     div.className = "lightbox";
     div.id = "lightbox_" + filename;
     div.onclick = closeImages;
-    div.innerHTML = "<div class=\"close\">&larr;</div><div class=\"box\"><img src=\"images/" + filename + "\" onclick=\"event.stopPropagation();\"></div>";
+    div.innerHTML = "<div class=\"close\">&#x2715;</div><div class=\"box\"><img src=\"images/" + filename + "\" onclick=\"event.stopPropagation();\"></div>";
     document.body.appendChild(div);
 }
 

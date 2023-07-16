@@ -46,17 +46,19 @@
 		"timestamp": 1631664000000,
 		"title": "Commenced master's programme",
 		"subtitle": "MS in Computational Science | Università della Svizzera italiana",
-		"content": ""
+		"content": "Decided to pursue an interdisciplinary course master's at an international student friendly university to improve my knowledge, skills and exposure."
 	}, {
 		"timestamp": 1631232000000,
-		"title": "Left MathWorks",
-		"subtitle": "",
-		"content": ""
+		"title": "Last day at MathWorks",
+		"subtitle": "System Architecture Verticals | Control Design and Automation",
+		"content": "Resigned from MathWorks after working there for three years and three months. My peers and managers gave me their best wishes for my future endeavours. I bid my farewell virtually.",
+		"images": ["MathWorks_kudoboard.jpg", "MathWorks_Farewell.png"]
 	}, {
 		"timestamp": 1607097600000,
 		"title": "Runner-up in MathWorks BGL Virtual Hackday",
 		"subtitle": "Team Loki",
-		"content": "We created a product named OCR assistant, a bot that can read the contents of different windows on your monitor (or minimized) and rings an alarm when a certain text appears in the same. This helps in workflows involving waiting for long running processes or commands."
+		"content": "We created a product named OCR assistant, a bot that can read the contents of different windows on your monitor (or minimized) and rings an alarm when a certain text appears in the same. This helps in workflows involving waiting for long running processes or commands.",
+		"images": ["VirtualHackDayProject.jpg", "VirtualHackDayPrize.jpg"]
 	}, {
 		"timestamp": 1604448000000,
 		"title": "Submitted a research paper to Journal of Simulation",
@@ -77,7 +79,7 @@
 		"title": "Runner-up in MathWorks BGL Hackday",
 		"subtitle": "Team MAT'CHA",
 		"content": "We created a product named MAT'CHA, a chatting platform in which the users can run MATLAB commands and display the output. It was intended to make collaboration easier.",
-		"images": ["HackdayTrophy.jpg"]
+		"images": ["HackDayPoster.png", "HackdayWithTrophy.jpg", "HackDayTrophyOnly.jpeg"]
 	}, {
 		"timestamp": 1529913600000,
 		"title": "Joined MathWorks",
