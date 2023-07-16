@@ -495,13 +495,9 @@ h1 {
     height: 100%;
     top: 0;
     left: 0;
-    display: none;
+    display: block;
     z-index: 999;
     background: rgba(0, 108, 154, 0.8);
-}
-
-.lightbox:target {
-    display: table;
     -webkit-animation: fadeInScale 1.2s ease-in-out;
     -moz-animation: fadeInScale 1.2s ease-in-out;
     -o-animation: fadeInScale 1.2s ease-in-out;

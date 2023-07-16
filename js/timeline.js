@@ -19,13 +19,7 @@ function generateTimeline(data) {
         if (data[i].hasOwnProperty('images')) {
             content += "<div class=\"miniGallery\">"
             data[i].images.forEach(filename => {
-                var div = document.createElement("div");
-                div.className = "lightbox";
-                div.id = "lightbox_" + filename;
-                div.innerHTML = "<div class=\"close\"><a href=\"#"+ div.id + "_thumbnail\" onclick=\"document.body.style.overflow='visible';\">&larr;</a></div><div class=\"box\"><img src=\"images/" + filename + "\" ></div>";
-                document.body.appendChild(div);
-
-                content += "<a href=\"#" + div.id + "\" onclick=\"team();document.body.style.overflow='hidden';\"><img id=\"" + div.id + "_thumbnail\" class=\"thumbnail\" src=\"images/" + filename + "\"></a>";
+                content += "<img onclick=\"viewImage('" + filename + "')\" class=\"thumbnail\" src=\"images/" + filename + "\">";
             });
             content += "</div>"
         }
@@ -53,4 +47,20 @@ function generateTimeline(data) {
 
         tableDomNode.appendChild(tr);
     }
+}
+
+function viewImage(filename) {
+    document.body.style.overflow='hidden';
+
+    var div = document.createElement("div");
+    div.className = "lightbox";
+    div.id = "lightbox_" + filename;
+    div.onclick = closeImages;
+    div.innerHTML = "<div class=\"close\">&larr;</div><div class=\"box\"><img src=\"images/" + filename + "\" onclick=\"event.stopPropagation();\"></div>";
+    document.body.appendChild(div);
+}
+
+function closeImages() {
+    document.body.style.overflow='visible';
+    document.getElementsByClassName('lightbox')[0].remove();
 }
